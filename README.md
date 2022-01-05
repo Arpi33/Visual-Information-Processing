@@ -46,5 +46,3 @@ After performing all kind of image cleaning process, the final output looked lik
 After training the model , the model was deployed on unseen data and predicted the severity of eczema accurately 
 
 ![alt text](https://github.com/Arpi33/Visual-Information-Processing/blob/main/img/unseen.PNG?raw=true) 
-
-
