@@ -39,5 +39,5 @@ chronic.
 After performing all kind of image cleaning process, the final output looked like below
 
 
-![alt text](https://github.com/Arpi33/Visual-Information-Processing/blob/main/img/foo.png?raw=true)
+![alt text](https://github.com/Arpi33/Visual-Information-Processing/blob/main/img/final%20output.PNG?raw=true)
 
