@@ -45,4 +45,23 @@ After performing all kind of image cleaning process, the final output looked lik
 
 After training the model , the model was deployed on unseen data and predicted the severity of eczema accurately 
 
-![alt text](https://github.com/Arpi33/Visual-Information-Processing/blob/main/img/unseen.PNG?raw=true) 
+![alt text](https://github.com/Arpi33/Visual-Information-Processing/blob/main/img/unseen.PNG?raw=true)
+
+<hr>
+
+In conclusion, this research aims to detect and classify the
+eczema on skin using image processing and machine
+learning. Multiple image processing techniques like
+morphology, median filters, Contrast-Limited Adaptive
+Histogram Equalization (CLAHE), etc. are used in image
+pre-processing and Support vector machine techniques are
+used for classification.
+In this paper we compared two datas, one for
+non-segmented regions while the other for segmented
+regions. The accuracy turns out to be in favor for
+non-segmented with a 59% accuracy score versus a 52%
+accuracy score for the segmented region
+
+<hr>
+
+<p><i>If you want to have the dataset , email me 'arpibhatt77@gmail.com' and welcome to suggest any improvement </i></p>
